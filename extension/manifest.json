@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "Shinigami Eyes",
-    "author": "Shinigami Eyes",
+    "name": "Shinigami Eyes-AshEdit",
+    "author": "Shinigami Eyes, ashl3y",
     "version": "1.0.29",
     "homepage_url": "https://shinigami-eyes.github.io/",
-    "description": "Highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors.",
+    "description": "Highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors. Edited by ashl3y to remove text entirely.",
     "icons": {
         "48": "icons/icon-48.png",
         "128": "icons/icon-128-96.png"

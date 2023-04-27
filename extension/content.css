@@ -19,6 +19,8 @@ body {
 }
 
 .assigned-label-transphobic, a.assigned-label-transphobic { color: var(--ShinigamiEyesTransphobic) !important; }
+.assigned-label-transphobic, a.assigned-label-transphobic { content-visibility: hidden !important }
+.assigned-label-transphobic, a.assigned-label-transphobic {opacity: 0 !important}
 .assigned-label-t-friendly, a.assigned-label-t-friendly { color: var(--ShinigamiEyesTFriendly) !important; }
 
 .has-assigned-label * { color: inherit !important; }

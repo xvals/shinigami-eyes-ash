@@ -1,6 +1,6 @@
 # Shinigami Eyes
 
-A Chrome/Firefox addon that highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors.
+A Chrome/Firefox addon that highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors. Edits made by ashl3y to entirely remove the text from anti-LGBT sources.
 
 For more information: [Shinigami Eyes website](https://shinigami-eyes.github.io/)
 
